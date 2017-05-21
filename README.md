@@ -7,7 +7,8 @@ This is an AndroidStudio rebuild of google SDK sample NotePad
 截图如下:<br>
 ![]()<br>
 关键代码如下:<br>
-` private final void updateNote(String text, String title) {
+        
+        ` private final void updateNote(String text, String title) {
 
         // Sets up a map to contain values to be updated in the provider.
         ContentValues values = new ContentValues();
