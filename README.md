@@ -7,7 +7,7 @@ This is an AndroidStudio rebuild of google SDK sample NotePad
 截图如下:<br>
 ![]()<br>
 关键代码如下:<br>
-`private final void updateNote(String text, String title) {
+` private final void updateNote(String text, String title) {
 
         // Sets up a map to contain values to be updated in the provider.
         ContentValues values = new ContentValues();
@@ -67,9 +67,6 @@ This is an AndroidStudio rebuild of google SDK sample NotePad
                 values,  // The map of column names and new values to apply to them.
                 null,    // No selection criteria are used, so no where columns are necessary.
                 null     // No where columns are used, so no where arguments are necessary.
-            );
-
-
-    }`
+            );} `
  
 
