@@ -8,13 +8,13 @@ This is an AndroidStudio rebuild of google SDK sample NotePad
 ![]()<br>
 关键代码如下:<br>
         
-        ` private final void updateNote(String text, String title) {
+        private final void updateNote(String text, String title) {
 
         // Sets up a map to contain values to be updated in the provider.
         ContentValues values = new ContentValues();
-        values.put(NotePad.Notes.COLUMN_NAME_MODIFICATION_DATE, System.currentTimeMillis());
-        SimpleDateFormat format = new SimpleDateFormat("dd/MM/yyyy HH:mm:ss");
-        String t=format.format(new Date());
+       ` values.put(NotePad.Notes.COLUMN_NAME_MODIFICATION_DATE, System.currentTimeMillis());`
+       ` SimpleDateFormat format = new SimpleDateFormat("dd/MM/yyyy HH:mm:ss");`
+        `String t=format.format(new Date());`
         // If the action is to insert a new note, this creates an initial title for it.
         if (mState == STATE_INSERT) {
 
@@ -40,8 +40,8 @@ This is an AndroidStudio rebuild of google SDK sample NotePad
             // In the values map, sets the value of the title
 
             values.put(NotePad.Notes.COLUMN_NAME_TITLE, title);
-            values.put(NotePad.Notes.COLUMN_NAME_CREATE_DATE,t);
-            values.put(NotePad.Notes.COLUMN_NAME_MODIFICATION_DATE,t);
+            `values.put(NotePad.Notes.COLUMN_NAME_CREATE_DATE,t);`
+            `values.put(NotePad.Notes.COLUMN_NAME_MODIFICATION_DATE,t);`
         } else if (title != null) {
             // In the values map, sets the value of the title
             values.put(NotePad.Notes.COLUMN_NAME_TITLE, title);
@@ -68,6 +68,6 @@ This is an AndroidStudio rebuild of google SDK sample NotePad
                 values,  // The map of column names and new values to apply to them.
                 null,    // No selection criteria are used, so no where columns are necessary.
                 null     // No where columns are used, so no where arguments are necessary.
-            );} `
+            );} 
  
 
