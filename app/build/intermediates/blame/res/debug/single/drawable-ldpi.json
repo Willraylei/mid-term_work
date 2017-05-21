@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "/Users/leibin/Downloads/NotePad-master 3/C:\\Users\\mao\\Desktop\\NotePad1-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\add.png",
+        "source": "/Users/leibin/Downloads/NotePad-master 3/C:\\Users\\mao\\Desktop\\NotePad1-master\\app\\src\\main\\res\\drawable-ldpi\\add.png"
+    },
+    {
+        "merged": "/Users/leibin/Downloads/NotePad-master 3/app/build/intermediates/res/merged/debug/drawable-ldpi/app_notes.png",
+        "source": "/Users/leibin/Downloads/NotePad-master 3/app/src/main/res/drawable-ldpi/app_notes.png"
+    },
+    {
+        "merged": "/Users/leibin/Downloads/NotePad-master 3/app/build/intermediates/res/merged/debug/drawable-ldpi/add.png",
+        "source": "/Users/leibin/Downloads/NotePad-master 3/app/src/main/res/drawable-ldpi/add.png"
+    },
+    {
+        "merged": "/Users/leibin/Downloads/NotePad-master 3/C:\\Users\\mao\\Desktop\\NotePad1-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\live_folder_notes.png",
+        "source": "/Users/leibin/Downloads/NotePad-master 3/C:\\Users\\mao\\Desktop\\NotePad1-master\\app\\src\\main\\res\\drawable-ldpi\\live_folder_notes.png"
+    },
+    {
+        "merged": "/Users/leibin/Downloads/NotePad-master 3/C:\\Users\\mao\\Desktop\\NotePad1-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\app_notes.png",
+        "source": "/Users/leibin/Downloads/NotePad-master 3/C:\\Users\\mao\\Desktop\\NotePad1-master\\app\\src\\main\\res\\drawable-ldpi\\app_notes.png"
+    },
+    {
+        "merged": "/Users/leibin/Downloads/NotePad-master 3/app/build/intermediates/res/merged/debug/drawable-ldpi/search.png",
+        "source": "/Users/leibin/Downloads/NotePad-master 3/app/src/main/res/drawable-ldpi/search.png"
+    },
+    {
+        "merged": "/Users/leibin/Downloads/NotePad-master 3/C:\\Users\\mao\\Desktop\\NotePad1-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\search.png",
+        "source": "/Users/leibin/Downloads/NotePad-master 3/C:\\Users\\mao\\Desktop\\NotePad1-master\\app\\src\\main\\res\\drawable-ldpi\\search.png"
+    },
+    {
+        "merged": "/Users/leibin/Downloads/NotePad-master 3/app/build/intermediates/res/merged/debug/drawable-ldpi/live_folder_notes.png",
+        "source": "/Users/leibin/Downloads/NotePad-master 3/app/src/main/res/drawable-ldpi/live_folder_notes.png"
+    }
+]

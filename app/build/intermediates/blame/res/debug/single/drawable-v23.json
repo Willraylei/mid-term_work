@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/Users/leibin/Downloads/NotePad-master 3/C:\\Users\\Y430P\\Desktop\\NotePad-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v23\\abc_control_background_material.xml",
+        "source": "/Users/leibin/Downloads/NotePad-master 3/C:\\Users\\Y430P\\Desktop\\NotePad-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-v23\\abc_control_background_material.xml"
+    },
+    {
+        "merged": "/Users/leibin/Downloads/NotePad-master 3/app/build/intermediates/res/merged/debug/drawable-v23/abc_control_background_material.xml",
+        "source": "/Users/leibin/.android/build-cache/ec847482e2d04549c8e6f61c7c66403a453c7b8d/output/res/drawable-v23/abc_control_background_material.xml"
+    },
+    {
+        "merged": "/Users/leibin/Downloads/NotePad-master 3/C:\\Users\\mao\\Desktop\\NotePad1-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v23\\abc_control_background_material.xml",
+        "source": "/Users/leibin/Downloads/NotePad-master 3/C:\\Users\\mao\\.android\\build-cache\\c4035801ab26bed43ff3d3e59b2dcf98c160f710\\output\\res\\drawable-v23\\abc_control_background_material.xml"
+    }
+]

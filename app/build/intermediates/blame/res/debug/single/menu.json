@@ -1,0 +1,38 @@
+[
+    {
+        "merged": "/Users/leibin/Downloads/NotePad-master 3/C:\\Users\\Y430P\\Desktop\\NotePad-master\\app\\build\\intermediates\\res\\merged\\debug\\menu\\editor_options_menu.xml",
+        "source": "/Users/leibin/Downloads/NotePad-master 3/C:\\Users\\Y430P\\Desktop\\NotePad-master\\app\\src\\main\\res\\menu\\editor_options_menu.xml"
+    },
+    {
+        "merged": "/Users/leibin/Downloads/NotePad-master 3/app/build/intermediates/res/merged/debug/menu/list_options_menu.xml",
+        "source": "/Users/leibin/Downloads/NotePad-master 3/app/src/main/res/menu/list_options_menu.xml"
+    },
+    {
+        "merged": "/Users/leibin/Downloads/NotePad-master 3/C:\\Users\\mao\\Desktop\\NotePad1-master\\app\\build\\intermediates\\res\\merged\\debug\\menu\\editor_options_menu.xml",
+        "source": "/Users/leibin/Downloads/NotePad-master 3/C:\\Users\\mao\\Desktop\\NotePad1-master\\app\\src\\main\\res\\menu\\editor_options_menu.xml"
+    },
+    {
+        "merged": "/Users/leibin/Downloads/NotePad-master 3/app/build/intermediates/res/merged/debug/menu/list_context_menu.xml",
+        "source": "/Users/leibin/Downloads/NotePad-master 3/app/src/main/res/menu/list_context_menu.xml"
+    },
+    {
+        "merged": "/Users/leibin/Downloads/NotePad-master 3/C:\\Users\\mao\\Desktop\\NotePad1-master\\app\\build\\intermediates\\res\\merged\\debug\\menu\\list_context_menu.xml",
+        "source": "/Users/leibin/Downloads/NotePad-master 3/C:\\Users\\mao\\Desktop\\NotePad1-master\\app\\src\\main\\res\\menu\\list_context_menu.xml"
+    },
+    {
+        "merged": "/Users/leibin/Downloads/NotePad-master 3/app/build/intermediates/res/merged/debug/menu/editor_options_menu.xml",
+        "source": "/Users/leibin/Downloads/NotePad-master 3/app/src/main/res/menu/editor_options_menu.xml"
+    },
+    {
+        "merged": "/Users/leibin/Downloads/NotePad-master 3/C:\\Users\\mao\\Desktop\\NotePad1-master\\app\\build\\intermediates\\res\\merged\\debug\\menu\\list_options_menu.xml",
+        "source": "/Users/leibin/Downloads/NotePad-master 3/C:\\Users\\mao\\Desktop\\NotePad1-master\\app\\src\\main\\res\\menu\\list_options_menu.xml"
+    },
+    {
+        "merged": "/Users/leibin/Downloads/NotePad-master 3/C:\\Users\\Y430P\\Desktop\\NotePad-master\\app\\build\\intermediates\\res\\merged\\debug\\menu\\list_context_menu.xml",
+        "source": "/Users/leibin/Downloads/NotePad-master 3/C:\\Users\\Y430P\\Desktop\\NotePad-master\\app\\src\\main\\res\\menu\\list_context_menu.xml"
+    },
+    {
+        "merged": "/Users/leibin/Downloads/NotePad-master 3/C:\\Users\\Y430P\\Desktop\\NotePad-master\\app\\build\\intermediates\\res\\merged\\debug\\menu\\list_options_menu.xml",
+        "source": "/Users/leibin/Downloads/NotePad-master 3/C:\\Users\\Y430P\\Desktop\\NotePad-master\\app\\src\\main\\res\\menu\\list_options_menu.xml"
+    }
+]

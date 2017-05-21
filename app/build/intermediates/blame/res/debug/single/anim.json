@@ -1,0 +1,122 @@
+[
+    {
+        "merged": "/Users/leibin/Downloads/NotePad-master 3/app/build/intermediates/res/merged/debug/anim/abc_popup_exit.xml",
+        "source": "/Users/leibin/.android/build-cache/ec847482e2d04549c8e6f61c7c66403a453c7b8d/output/res/anim/abc_popup_exit.xml"
+    },
+    {
+        "merged": "/Users/leibin/Downloads/NotePad-master 3/C:\\Users\\Y430P\\Desktop\\NotePad-master\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_bottom.xml",
+        "source": "/Users/leibin/Downloads/NotePad-master 3/C:\\Users\\Y430P\\Desktop\\NotePad-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\anim\\abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "/Users/leibin/Downloads/NotePad-master 3/C:\\Users\\Y430P\\Desktop\\NotePad-master\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_top.xml",
+        "source": "/Users/leibin/Downloads/NotePad-master 3/C:\\Users\\Y430P\\Desktop\\NotePad-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\anim\\abc_slide_out_top.xml"
+    },
+    {
+        "merged": "/Users/leibin/Downloads/NotePad-master 3/C:\\Users\\Y430P\\Desktop\\NotePad-master\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_exit.xml",
+        "source": "/Users/leibin/Downloads/NotePad-master 3/C:\\Users\\Y430P\\Desktop\\NotePad-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\anim\\abc_popup_exit.xml"
+    },
+    {
+        "merged": "/Users/leibin/Downloads/NotePad-master 3/C:\\Users\\mao\\Desktop\\NotePad1-master\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_enter.xml",
+        "source": "/Users/leibin/Downloads/NotePad-master 3/C:\\Users\\mao\\.android\\build-cache\\c4035801ab26bed43ff3d3e59b2dcf98c160f710\\output\\res\\anim\\abc_popup_enter.xml"
+    },
+    {
+        "merged": "/Users/leibin/Downloads/NotePad-master 3/app/build/intermediates/res/merged/debug/anim/abc_shrink_fade_out_from_bottom.xml",
+        "source": "/Users/leibin/.android/build-cache/ec847482e2d04549c8e6f61c7c66403a453c7b8d/output/res/anim/abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "/Users/leibin/Downloads/NotePad-master 3/C:\\Users\\mao\\Desktop\\NotePad1-master\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_out.xml",
+        "source": "/Users/leibin/Downloads/NotePad-master 3/C:\\Users\\mao\\.android\\build-cache\\c4035801ab26bed43ff3d3e59b2dcf98c160f710\\output\\res\\anim\\abc_fade_out.xml"
+    },
+    {
+        "merged": "/Users/leibin/Downloads/NotePad-master 3/app/build/intermediates/res/merged/debug/anim/abc_slide_in_bottom.xml",
+        "source": "/Users/leibin/.android/build-cache/ec847482e2d04549c8e6f61c7c66403a453c7b8d/output/res/anim/abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "/Users/leibin/Downloads/NotePad-master 3/app/build/intermediates/res/merged/debug/anim/abc_popup_enter.xml",
+        "source": "/Users/leibin/.android/build-cache/ec847482e2d04549c8e6f61c7c66403a453c7b8d/output/res/anim/abc_popup_enter.xml"
+    },
+    {
+        "merged": "/Users/leibin/Downloads/NotePad-master 3/C:\\Users\\Y430P\\Desktop\\NotePad-master\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_in.xml",
+        "source": "/Users/leibin/Downloads/NotePad-master 3/C:\\Users\\Y430P\\Desktop\\NotePad-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\anim\\abc_fade_in.xml"
+    },
+    {
+        "merged": "/Users/leibin/Downloads/NotePad-master 3/C:\\Users\\mao\\Desktop\\NotePad1-master\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_shrink_fade_out_from_bottom.xml",
+        "source": "/Users/leibin/Downloads/NotePad-master 3/C:\\Users\\mao\\.android\\build-cache\\c4035801ab26bed43ff3d3e59b2dcf98c160f710\\output\\res\\anim\\abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "/Users/leibin/Downloads/NotePad-master 3/C:\\Users\\mao\\Desktop\\NotePad1-master\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_top.xml",
+        "source": "/Users/leibin/Downloads/NotePad-master 3/C:\\Users\\mao\\.android\\build-cache\\c4035801ab26bed43ff3d3e59b2dcf98c160f710\\output\\res\\anim\\abc_slide_out_top.xml"
+    },
+    {
+        "merged": "/Users/leibin/Downloads/NotePad-master 3/app/build/intermediates/res/merged/debug/anim/abc_slide_in_top.xml",
+        "source": "/Users/leibin/.android/build-cache/ec847482e2d04549c8e6f61c7c66403a453c7b8d/output/res/anim/abc_slide_in_top.xml"
+    },
+    {
+        "merged": "/Users/leibin/Downloads/NotePad-master 3/C:\\Users\\mao\\Desktop\\NotePad1-master\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_grow_fade_in_from_bottom.xml",
+        "source": "/Users/leibin/Downloads/NotePad-master 3/C:\\Users\\mao\\.android\\build-cache\\c4035801ab26bed43ff3d3e59b2dcf98c160f710\\output\\res\\anim\\abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "/Users/leibin/Downloads/NotePad-master 3/C:\\Users\\mao\\Desktop\\NotePad1-master\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_in.xml",
+        "source": "/Users/leibin/Downloads/NotePad-master 3/C:\\Users\\mao\\.android\\build-cache\\c4035801ab26bed43ff3d3e59b2dcf98c160f710\\output\\res\\anim\\abc_fade_in.xml"
+    },
+    {
+        "merged": "/Users/leibin/Downloads/NotePad-master 3/app/build/intermediates/res/merged/debug/anim/abc_slide_out_bottom.xml",
+        "source": "/Users/leibin/.android/build-cache/ec847482e2d04549c8e6f61c7c66403a453c7b8d/output/res/anim/abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "/Users/leibin/Downloads/NotePad-master 3/app/build/intermediates/res/merged/debug/anim/abc_fade_in.xml",
+        "source": "/Users/leibin/.android/build-cache/ec847482e2d04549c8e6f61c7c66403a453c7b8d/output/res/anim/abc_fade_in.xml"
+    },
+    {
+        "merged": "/Users/leibin/Downloads/NotePad-master 3/C:\\Users\\Y430P\\Desktop\\NotePad-master\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_shrink_fade_out_from_bottom.xml",
+        "source": "/Users/leibin/Downloads/NotePad-master 3/C:\\Users\\Y430P\\Desktop\\NotePad-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\anim\\abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "/Users/leibin/Downloads/NotePad-master 3/C:\\Users\\mao\\Desktop\\NotePad1-master\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_bottom.xml",
+        "source": "/Users/leibin/Downloads/NotePad-master 3/C:\\Users\\mao\\.android\\build-cache\\c4035801ab26bed43ff3d3e59b2dcf98c160f710\\output\\res\\anim\\abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "/Users/leibin/Downloads/NotePad-master 3/C:\\Users\\mao\\Desktop\\NotePad1-master\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_bottom.xml",
+        "source": "/Users/leibin/Downloads/NotePad-master 3/C:\\Users\\mao\\.android\\build-cache\\c4035801ab26bed43ff3d3e59b2dcf98c160f710\\output\\res\\anim\\abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "/Users/leibin/Downloads/NotePad-master 3/app/build/intermediates/res/merged/debug/anim/abc_slide_out_top.xml",
+        "source": "/Users/leibin/.android/build-cache/ec847482e2d04549c8e6f61c7c66403a453c7b8d/output/res/anim/abc_slide_out_top.xml"
+    },
+    {
+        "merged": "/Users/leibin/Downloads/NotePad-master 3/app/build/intermediates/res/merged/debug/anim/abc_grow_fade_in_from_bottom.xml",
+        "source": "/Users/leibin/.android/build-cache/ec847482e2d04549c8e6f61c7c66403a453c7b8d/output/res/anim/abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "/Users/leibin/Downloads/NotePad-master 3/app/build/intermediates/res/merged/debug/anim/abc_fade_out.xml",
+        "source": "/Users/leibin/.android/build-cache/ec847482e2d04549c8e6f61c7c66403a453c7b8d/output/res/anim/abc_fade_out.xml"
+    },
+    {
+        "merged": "/Users/leibin/Downloads/NotePad-master 3/C:\\Users\\Y430P\\Desktop\\NotePad-master\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_bottom.xml",
+        "source": "/Users/leibin/Downloads/NotePad-master 3/C:\\Users\\Y430P\\Desktop\\NotePad-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\anim\\abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "/Users/leibin/Downloads/NotePad-master 3/C:\\Users\\Y430P\\Desktop\\NotePad-master\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_out.xml",
+        "source": "/Users/leibin/Downloads/NotePad-master 3/C:\\Users\\Y430P\\Desktop\\NotePad-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\anim\\abc_fade_out.xml"
+    },
+    {
+        "merged": "/Users/leibin/Downloads/NotePad-master 3/C:\\Users\\Y430P\\Desktop\\NotePad-master\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_grow_fade_in_from_bottom.xml",
+        "source": "/Users/leibin/Downloads/NotePad-master 3/C:\\Users\\Y430P\\Desktop\\NotePad-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\anim\\abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "/Users/leibin/Downloads/NotePad-master 3/C:\\Users\\mao\\Desktop\\NotePad1-master\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_top.xml",
+        "source": "/Users/leibin/Downloads/NotePad-master 3/C:\\Users\\mao\\.android\\build-cache\\c4035801ab26bed43ff3d3e59b2dcf98c160f710\\output\\res\\anim\\abc_slide_in_top.xml"
+    },
+    {
+        "merged": "/Users/leibin/Downloads/NotePad-master 3/C:\\Users\\Y430P\\Desktop\\NotePad-master\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_enter.xml",
+        "source": "/Users/leibin/Downloads/NotePad-master 3/C:\\Users\\Y430P\\Desktop\\NotePad-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\anim\\abc_popup_enter.xml"
+    },
+    {
+        "merged": "/Users/leibin/Downloads/NotePad-master 3/C:\\Users\\Y430P\\Desktop\\NotePad-master\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_top.xml",
+        "source": "/Users/leibin/Downloads/NotePad-master 3/C:\\Users\\Y430P\\Desktop\\NotePad-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\anim\\abc_slide_in_top.xml"
+    },
+    {
+        "merged": "/Users/leibin/Downloads/NotePad-master 3/C:\\Users\\mao\\Desktop\\NotePad1-master\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_exit.xml",
+        "source": "/Users/leibin/Downloads/NotePad-master 3/C:\\Users\\mao\\.android\\build-cache\\c4035801ab26bed43ff3d3e59b2dcf98c160f710\\output\\res\\anim\\abc_popup_exit.xml"
+    }
+]

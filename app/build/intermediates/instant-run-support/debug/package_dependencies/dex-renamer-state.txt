@@ -1,0 +1,25 @@
+#Sat May 13 17:56:41 CST 2017
+renamed.7=classes2.dex
+renamed.6=classes4.dex
+renamed.5=classes8.dex
+renamed.4=classes3.dex
+renamed.3=classes5.dex
+renamed.2=classes.dex
+renamed.1=classes7.dex
+renamed.0=classes6.dex
+base.7=/Users/leibin/Downloads/NotePad-master 3/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_9bd7de8a5230a3ad0a5f49e79f5c6ac26e637187
+base.6=/Users/leibin/Downloads/NotePad-master 3/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_b7bb428975d6d06076725e1b95a5b5278fe4b03d
+base.5=/Users/leibin/Downloads/NotePad-master 3/app/build/intermediates/transforms/dex/debug/folders/1000/2/android-support-v7-appcompat_742d9aff4d14fa14ebb69e2f355cd4e529ac5628
+base.4=/Users/leibin/Downloads/NotePad-master 3/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_add01bad0608ed59ebb80a020249a61771ee3a69
+base.3=/Users/leibin/Downloads/NotePad-master 3/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-23.1.1_8e131706a92a21083cb21324dfdc265a5b5f3879
+base.2=/Users/leibin/Downloads/NotePad-master 3/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_8f7f5b24093a771369ea7a70847c01374ab5f3d8
+base.1=/Users/leibin/Downloads/NotePad-master 3/app/build/intermediates/transforms/dex/debug/folders/1000/2/android-support-v4_64286313db8a86cb3a5283880018c4ba677b981b
+base.0=/Users/leibin/Downloads/NotePad-master 3/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-23.1.1_c8d66ba9618c711c2c58bb51c8133e5c5a96c040
+file.7=/Users/leibin/Downloads/NotePad-master 3/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_9bd7de8a5230a3ad0a5f49e79f5c6ac26e637187/classes.dex
+file.6=/Users/leibin/Downloads/NotePad-master 3/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_b7bb428975d6d06076725e1b95a5b5278fe4b03d/classes.dex
+file.5=/Users/leibin/Downloads/NotePad-master 3/app/build/intermediates/transforms/dex/debug/folders/1000/2/android-support-v7-appcompat_742d9aff4d14fa14ebb69e2f355cd4e529ac5628/classes.dex
+file.4=/Users/leibin/Downloads/NotePad-master 3/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_add01bad0608ed59ebb80a020249a61771ee3a69/classes.dex
+file.3=/Users/leibin/Downloads/NotePad-master 3/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-23.1.1_8e131706a92a21083cb21324dfdc265a5b5f3879/classes.dex
+file.2=/Users/leibin/Downloads/NotePad-master 3/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_8f7f5b24093a771369ea7a70847c01374ab5f3d8/classes.dex
+file.1=/Users/leibin/Downloads/NotePad-master 3/app/build/intermediates/transforms/dex/debug/folders/1000/2/android-support-v4_64286313db8a86cb3a5283880018c4ba677b981b/classes.dex
+file.0=/Users/leibin/Downloads/NotePad-master 3/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-23.1.1_c8d66ba9618c711c2c58bb51c8133e5c5a96c040/classes.dex
