@@ -12,9 +12,9 @@ This is an AndroidStudio rebuild of google SDK sample NotePad
 
         // Sets up a map to contain values to be updated in the provider.
         ContentValues values = new ContentValues();
-        `values.put(NotePad.Notes.COLUMN_NAME_MODIFICATION_DATE, System.currentTimeMillis());`
-        `SimpleDateFormat format = new SimpleDateFormat("dd/MM/yyyy HH:mm:ss");`
-        `String t=format.format(new Date());`
+        \`values.put(NotePad.Notes.COLUMN_NAME_MODIFICATION_DATE, System.currentTimeMillis());\`
+        \`SimpleDateFormat format = new SimpleDateFormat("dd/MM/yyyy HH:mm:ss");`
+        \`String t=format.format(new Date());`
         // If the action is to insert a new note, this creates an initial title for it.
         if (mState == STATE_INSERT) {
 
