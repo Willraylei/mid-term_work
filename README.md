@@ -149,10 +149,10 @@ This is an AndroidStudio rebuild of google SDK sample NotePad
 2. 笔记本的更多细小的功能如(增加,删除,拷贝粘贴等对笔记本的基本操作和对用户比较方便的操作),进行了一定的UI美化,让界面看上去不会太突兀.
 如下图:<br>
 ![image](https://github.com/Willraylei/mid-term_work/blob/master/Screen%20Shot%202017-05-21%20at%205.53.12%20PM.png)
-![image](https://github.com/Willraylei/mid-term_work/blob/master/Screen%20Shot%202017-05-21%20at%205.53.30%20PM.png)
+![image](https://github.com/Willraylei/mid-term_work/blob/master/Screen%20Shot%202017-05-21%20at%205.53.30%20PM.png)<br>
 如下图:<br>
 ![image](https://github.com/Willraylei/mid-term_work/blob/master/Screen%20Shot%202017-05-21%20at%204.31.05%20PM.png)
-![image](https://github.com/Willraylei/mid-term_work/blob/master/Screen%20Shot%202017-05-21%20at%204.37.31%20PM.png)
-如下图:<br>
+![image](https://github.com/Willraylei/mid-term_work/blob/master/Screen%20Shot%202017-05-21%20at%204.37.31%20PM.png)<br>
+
 
 
