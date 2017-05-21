@@ -24,14 +24,6 @@
         "source": "/Users/leibin/Downloads/NotePad-master 3/app/src/main/res/drawable/ic_menu_edit.png"
     },
     {
-        "merged": "/Users/leibin/Downloads/NotePad-master 3/app/build/intermediates/res/merged/debug/drawable/cose3.png",
-        "source": "/Users/leibin/Downloads/NotePad-master 3/app/src/main/res/drawable/cose3.png"
-    },
-    {
-        "merged": "/Users/leibin/Downloads/NotePad-master 3/app/build/intermediates/res/merged/debug/drawable/color2.png",
-        "source": "/Users/leibin/Downloads/NotePad-master 3/app/src/main/res/drawable/color2.png"
-    },
-    {
         "merged": "/Users/leibin/Downloads/NotePad-master 3/C:\\Users\\Y430P\\Desktop\\NotePad-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_menu_delete.png",
         "source": "/Users/leibin/Downloads/NotePad-master 3/C:\\Users\\Y430P\\Desktop\\NotePad-master\\app\\src\\main\\res\\drawable\\ic_menu_delete.png"
     },
@@ -56,16 +48,8 @@
         "source": "/Users/leibin/Downloads/NotePad-master 3/C:\\Users\\mao\\.android\\build-cache\\c4035801ab26bed43ff3d3e59b2dcf98c160f710\\output\\res\\drawable\\abc_item_background_holo_light.xml"
     },
     {
-        "merged": "/Users/leibin/Downloads/NotePad-master 3/app/build/intermediates/res/merged/debug/drawable/color3.png",
-        "source": "/Users/leibin/Downloads/NotePad-master 3/app/src/main/res/drawable/color3.png"
-    },
-    {
         "merged": "/Users/leibin/Downloads/NotePad-master 3/app/build/intermediates/res/merged/debug/drawable/abc_cab_background_top_material.xml",
         "source": "/Users/leibin/.android/build-cache/ec847482e2d04549c8e6f61c7c66403a453c7b8d/output/res/drawable/abc_cab_background_top_material.xml"
-    },
-    {
-        "merged": "/Users/leibin/Downloads/NotePad-master 3/app/build/intermediates/res/merged/debug/drawable/cose2.png",
-        "source": "/Users/leibin/Downloads/NotePad-master 3/app/src/main/res/drawable/cose2.png"
     },
     {
         "merged": "/Users/leibin/Downloads/NotePad-master 3/app/build/intermediates/res/merged/debug/drawable/aaa.png",
@@ -96,16 +80,16 @@
         "source": "/Users/leibin/Downloads/NotePad-master 3/C:\\Users\\mao\\.android\\build-cache\\c4035801ab26bed43ff3d3e59b2dcf98c160f710\\output\\res\\drawable\\abc_edit_text_material.xml"
     },
     {
-        "merged": "/Users/leibin/Downloads/NotePad-master 3/app/build/intermediates/res/merged/debug/drawable/ic_menu_revert.png",
-        "source": "/Users/leibin/Downloads/NotePad-master 3/app/src/main/res/drawable/ic_menu_revert.png"
+        "merged": "/Users/leibin/Downloads/NotePad-master 3/C:\\Users\\mao\\Desktop\\NotePad1-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bgg.xml",
+        "source": "/Users/leibin/Downloads/NotePad-master 3/C:\\Users\\mao\\Desktop\\NotePad1-master\\app\\src\\main\\res\\drawable\\bgg.xml"
     },
     {
         "merged": "/Users/leibin/Downloads/NotePad-master 3/C:\\Users\\mao\\Desktop\\NotePad1-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_default_mtrl_shape.xml",
         "source": "/Users/leibin/Downloads/NotePad-master 3/C:\\Users\\mao\\.android\\build-cache\\c4035801ab26bed43ff3d3e59b2dcf98c160f710\\output\\res\\drawable\\abc_btn_default_mtrl_shape.xml"
     },
     {
-        "merged": "/Users/leibin/Downloads/NotePad-master 3/C:\\Users\\mao\\Desktop\\NotePad1-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bgg.xml",
-        "source": "/Users/leibin/Downloads/NotePad-master 3/C:\\Users\\mao\\Desktop\\NotePad1-master\\app\\src\\main\\res\\drawable\\bgg.xml"
+        "merged": "/Users/leibin/Downloads/NotePad-master 3/app/build/intermediates/res/merged/debug/drawable/ic_menu_revert.png",
+        "source": "/Users/leibin/Downloads/NotePad-master 3/app/src/main/res/drawable/ic_menu_revert.png"
     },
     {
         "merged": "/Users/leibin/Downloads/NotePad-master 3/C:\\Users\\Y430P\\Desktop\\NotePad-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\button_action_selector.xml",
@@ -360,10 +344,6 @@
         "source": "/Users/leibin/Downloads/NotePad-master 3/C:\\Users\\mao\\Desktop\\NotePad1-master\\app\\src\\main\\res\\drawable\\color4.png"
     },
     {
-        "merged": "/Users/leibin/Downloads/NotePad-master 3/app/build/intermediates/res/merged/debug/drawable/bjj.jpg",
-        "source": "/Users/leibin/Downloads/NotePad-master 3/app/src/main/res/drawable/bjj.jpg"
-    },
-    {
         "merged": "/Users/leibin/Downloads/NotePad-master 3/app/build/intermediates/res/merged/debug/drawable/abc_tab_indicator_material.xml",
         "source": "/Users/leibin/.android/build-cache/ec847482e2d04549c8e6f61c7c66403a453c7b8d/output/res/drawable/abc_tab_indicator_material.xml"
     },
@@ -394,10 +374,6 @@
     {
         "merged": "/Users/leibin/Downloads/NotePad-master 3/C:\\Users\\mao\\Desktop\\NotePad1-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_light.xml",
         "source": "/Users/leibin/Downloads/NotePad-master 3/C:\\Users\\mao\\.android\\build-cache\\c4035801ab26bed43ff3d3e59b2dcf98c160f710\\output\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
-    },
-    {
-        "merged": "/Users/leibin/Downloads/NotePad-master 3/app/build/intermediates/res/merged/debug/drawable/bgg.xml",
-        "source": "/Users/leibin/Downloads/NotePad-master 3/app/src/main/res/drawable/bgg.xml"
     },
     {
         "merged": "/Users/leibin/Downloads/NotePad-master 3/C:\\Users\\Y430P\\Desktop\\NotePad-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_thumb_material.xml",
@@ -452,10 +428,6 @@
         "source": "/Users/leibin/Downloads/NotePad-master 3/C:\\Users\\mao\\.android\\build-cache\\c4035801ab26bed43ff3d3e59b2dcf98c160f710\\output\\res\\drawable\\abc_ratingbar_full_material.xml"
     },
     {
-        "merged": "/Users/leibin/Downloads/NotePad-master 3/app/build/intermediates/res/merged/debug/drawable/cose1.png",
-        "source": "/Users/leibin/Downloads/NotePad-master 3/app/src/main/res/drawable/cose1.png"
-    },
-    {
         "merged": "/Users/leibin/Downloads/NotePad-master 3/C:\\Users\\Y430P\\Desktop\\NotePad-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_dark.xml",
         "source": "/Users/leibin/Downloads/NotePad-master 3/C:\\Users\\Y430P\\Desktop\\NotePad-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
     },
@@ -504,10 +476,6 @@
         "source": "/Users/leibin/.android/build-cache/ec847482e2d04549c8e6f61c7c66403a453c7b8d/output/res/drawable/abc_btn_check_material.xml"
     },
     {
-        "merged": "/Users/leibin/Downloads/NotePad-master 3/app/build/intermediates/res/merged/debug/drawable/color4.png",
-        "source": "/Users/leibin/Downloads/NotePad-master 3/app/src/main/res/drawable/color4.png"
-    },
-    {
         "merged": "/Users/leibin/Downloads/NotePad-master 3/C:\\Users\\mao\\Desktop\\NotePad1-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\button_sub_action_dark_selector.xml",
         "source": "/Users/leibin/Downloads/NotePad-master 3/C:\\Users\\mao\\.android\\build-cache\\5476ef07ced33c7d8c5fa5585293610d74db9c97\\output\\res\\drawable\\button_sub_action_dark_selector.xml"
     },
@@ -518,10 +486,6 @@
     {
         "merged": "/Users/leibin/Downloads/NotePad-master 3/C:\\Users\\Y430P\\Desktop\\NotePad-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_default_mtrl_shape.xml",
         "source": "/Users/leibin/Downloads/NotePad-master 3/C:\\Users\\Y430P\\Desktop\\NotePad-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_btn_default_mtrl_shape.xml"
-    },
-    {
-        "merged": "/Users/leibin/Downloads/NotePad-master 3/app/build/intermediates/res/merged/debug/drawable/color1.png",
-        "source": "/Users/leibin/Downloads/NotePad-master 3/app/src/main/res/drawable/color1.png"
     },
     {
         "merged": "/Users/leibin/Downloads/NotePad-master 3/C:\\Users\\Y430P\\Desktop\\NotePad-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background_light.xml",
@@ -570,9 +534,5 @@
     {
         "merged": "/Users/leibin/Downloads/NotePad-master 3/app/build/intermediates/res/merged/debug/drawable/abcd.jpg",
         "source": "/Users/leibin/Downloads/NotePad-master 3/app/src/main/res/drawable/abcd.jpg"
-    },
-    {
-        "merged": "/Users/leibin/Downloads/NotePad-master 3/app/build/intermediates/res/merged/debug/drawable/cose4.png",
-        "source": "/Users/leibin/Downloads/NotePad-master 3/app/src/main/res/drawable/cose4.png"
     }
 ]

@@ -6,37 +6,43 @@
     density="420dpi"
     format="10"
     plugin-version="2.3.1"
-    timestamp="1494926842666"
+    timestamp="1495350645081"
     token="-8584551311170006050"
     verifier="COLD_SWAP_REQUESTED" >
 
     <task
         name="javac"
-        duration="0" />
+        duration="981" />
     <task
         name="instant-run-dex"
         duration="0" />
     <task
         name="instant-run-transform"
-        duration="0" />
+        duration="95" />
     <task
         name="verifier"
-        duration="0" />
+        duration="9" />
 
+    <artifact
+        location="/Users/leibin/Downloads/NotePad-master 3/app/build/intermediates/split-apk/debug/slices/slice_4.apk"
+        type="SPLIT" />
+    <artifact
+        location="/Users/leibin/Downloads/NotePad-master 3/app/build/intermediates/split-apk/debug/slices/slice_2.apk"
+        type="SPLIT" />
+    <artifact
+        location="/Users/leibin/Downloads/NotePad-master 3/app/build/intermediates/split-apk/debug/slices/slice_8.apk"
+        type="SPLIT" />
+    <artifact
+        location="/Users/leibin/Downloads/NotePad-master 3/app/build/intermediates/split-apk/debug/slices/slice_7.apk"
+        type="SPLIT" />
     <artifact
         location="/Users/leibin/Downloads/NotePad-master 3/app/build/outputs/apk/app-debug.apk"
         type="SPLIT_MAIN" />
 
     <build
         build-mode="FULL"
-        timestamp="1494923843282"
+        timestamp="1495350103006"
         verifier="FULL_BUILD_REQUESTED" >
-        <artifact
-            location="/Users/leibin/Downloads/NotePad-master 3/app/build/intermediates/split-apk/debug/slices/slice_7.apk"
-            type="SPLIT" />
-        <artifact
-            location="/Users/leibin/Downloads/NotePad-master 3/app/build/outputs/apk/app-debug.apk"
-            type="SPLIT_MAIN" />
         <artifact
             location="/Users/leibin/Downloads/NotePad-master 3/app/build/intermediates/split-apk/debug/slices/slice_0.apk"
             type="SPLIT" />
@@ -56,6 +62,9 @@
             location="/Users/leibin/Downloads/NotePad-master 3/app/build/intermediates/split-apk/debug/slices/slice_8.apk"
             type="SPLIT" />
         <artifact
+            location="/Users/leibin/Downloads/NotePad-master 3/app/build/intermediates/split-apk/debug/slices/slice_7.apk"
+            type="SPLIT" />
+        <artifact
             location="/Users/leibin/Downloads/NotePad-master 3/app/build/intermediates/split-apk/debug/slices/slice_1.apk"
             type="SPLIT" />
         <artifact
@@ -67,30 +76,26 @@
         <artifact
             location="/Users/leibin/Downloads/NotePad-master 3/app/build/intermediates/split-apk/debug/slices/slice_3.apk"
             type="SPLIT" />
+        <artifact
+            location="/Users/leibin/Downloads/NotePad-master 3/app/build/outputs/apk/app-debug.apk"
+            type="SPLIT_MAIN" />
     </build>
     <build
         build-mode="COLD"
-        timestamp="1494925395620"
+        timestamp="1495350645081"
         verifier="COLD_SWAP_REQUESTED" >
+        <artifact
+            location="/Users/leibin/Downloads/NotePad-master 3/app/build/intermediates/split-apk/debug/slices/slice_4.apk"
+            type="SPLIT" />
         <artifact
             location="/Users/leibin/Downloads/NotePad-master 3/app/build/intermediates/split-apk/debug/slices/slice_2.apk"
             type="SPLIT" />
         <artifact
-            location="/Users/leibin/Downloads/NotePad-master 3/app/build/intermediates/split-apk/debug/slices/slice_4.apk"
+            location="/Users/leibin/Downloads/NotePad-master 3/app/build/intermediates/split-apk/debug/slices/slice_8.apk"
             type="SPLIT" />
-    </build>
-    <build
-        build-mode="COLD"
-        timestamp="1494925936292"
-        verifier="COLD_SWAP_REQUESTED" >
         <artifact
             location="/Users/leibin/Downloads/NotePad-master 3/app/build/intermediates/split-apk/debug/slices/slice_7.apk"
             type="SPLIT" />
-    </build>
-    <build
-        build-mode="COLD"
-        timestamp="1494926842666"
-        verifier="COLD_SWAP_REQUESTED" >
         <artifact
             location="/Users/leibin/Downloads/NotePad-master 3/app/build/outputs/apk/app-debug.apk"
             type="SPLIT_MAIN" />

@@ -1,4 +1,4 @@
-#Tue May 16 17:27:25 CST 2017
+#Sun May 21 15:10:54 CST 2017
 base.0=/Users/leibin/Downloads/NotePad-master 3/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_cadf3724636170b5890ad135885d45b865670c12
 renamed.1=classes.dex
 renamed.0=classes2.dex
