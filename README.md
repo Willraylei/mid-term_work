@@ -3,7 +3,7 @@
 This is an AndroidStudio rebuild of google SDK sample NotePad
 
 ## Notepad功能,截图和相关代码如下
-1. 1 Notelist中增加条目显示时间戳功能
+1. Notelist中增加条目显示时间戳功能
 截图如下:<br>
 ![image](https://github.com/Willraylei/mid-term_work/blob/master/Screen%20Shot%202017-05-21%20at%204.31.29%20PM.png)<br>
 关键代码如下:<br>
@@ -70,7 +70,7 @@ This is an AndroidStudio rebuild of google SDK sample NotePad
                 null     // No where columns are used, so no where arguments are necessary.
             );}
 
-1. 2 添加笔记查询内容,根据标题查询
+2. 添加笔记查询内容,根据标题查询
 截图如下:<br>
 ![image](https://github.com/Willraylei/mid-term_work/blob/master/Screen%20Shot%202017-05-21%20at%204.36.51%20PM.png)<br>
 关键代码如下:<br>
@@ -137,7 +137,7 @@ This is an AndroidStudio rebuild of google SDK sample NotePad
         @Override
         public void afterTextChanged(Editable s) {}};
      
-2. 1 在进行笔记本内容编辑时,会显示编辑的相关提示
+2. 在进行笔记本内容编辑时,会显示编辑的相关提示
 
     
           // Modifies the window title for the Activity according to the current Activity state.
@@ -153,7 +153,7 @@ This is an AndroidStudio rebuild of google SDK sample NotePad
                 setTitle(getText(R.string.title_create));
             }
 
-2. 2 在NoteList页面进行选择即SelectItemMenu
+2. 在NoteList页面进行选择即SelectItemMenu
 
 
        /**
@@ -184,7 +184,7 @@ This is an AndroidStudio rebuild of google SDK sample NotePad
         }
         return super.onOptionsItemSelected(item); }
 
-2. 3 笔记本的粘贴功能(在粘贴前首先要进行copy)
+2. 笔记本的粘贴功能(在粘贴前首先要进行copy)
 
         
        //BEGIN_INCLUDE(paste)
@@ -254,7 +254,7 @@ This is an AndroidStudio rebuild of google SDK sample NotePad
         }
         //END_INCLUDE(paste)
         
-2. 4 删除笔记
+2. 删除笔记
 
         /**
        * This helper method cancels the work done on a note.  It deletes the note if it was
@@ -290,7 +290,7 @@ This is an AndroidStudio rebuild of google SDK sample NotePad
         } }
         
 
-2. 5 笔记本的更多细小的功能如(增加,删除,拷贝粘贴等对笔记本的基本操作和对用户比较方便的操作),进行了一定的UI美化,让界面看上去不会太突兀.
+2. 笔记本的更多细小的功能如(增加,删除,拷贝粘贴等对笔记本的基本操作和对用户比较方便的操作),进行了一定的UI美化,让界面看上去不会太突兀.
 如下图:<br>
 ![image](https://github.com/Willraylei/mid-term_work/blob/master/Screen%20Shot%202017-05-21%20at%205.53.12%20PM.png)
 ![image](https://github.com/Willraylei/mid-term_work/blob/master/Screen%20Shot%202017-05-21%20at%205.53.30%20PM.png)<br>
