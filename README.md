@@ -81,13 +81,13 @@ This is an AndroidStudio rebuild of google SDK sample NotePad
         super.onResume();;
         listView=(ListView) findViewById(R.id.mainlist);
         editText=(EditText) findViewById(R.id.mainedit);
-       Button button= (Button) findViewById(R.id.addbutton);
+        Button button= (Button) findViewById(R.id.addbutton);
               button.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
                 startActivity(new Intent(Intent.ACTION_INSERT, getIntent().getData()));
             }
-        });
+         });
           listView.setOnItemClickListener(new AdapterView.OnItemClickListener() {
               @Override
               public void onItemClick(AdapterView<?> parent, View view, int position, long id) {
@@ -96,8 +96,8 @@ This is an AndroidStudio rebuild of google SDK sample NotePad
           });
         setlistView();
         editText.addTextChangedListener(textWatcher);
-     }
-    private  TextWatcher textWatcher=new TextWatcher() {
+        }
+        private  TextWatcher textWatcher=new TextWatcher() {
         @Override
         public void beforeTextChanged(CharSequence s, int start, int count, int after) {
         }
